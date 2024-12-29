@@ -1,0 +1,3 @@
+Study Muddies:
+
+The code shows a filter box where the user can press each button to choose which criteria to filter by and enter the key word that goes with the specific criteria. The web page also shows 4 sets of cards that matches the specific preferences from the filter by. In these cards, the user can also save these profiles and or connect on LinkedIn with the preferred profiles. It serves as the page where users find their study buddy. 
